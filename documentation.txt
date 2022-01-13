@@ -1,1 +1,1 @@
-Following file are the chat_server & chat_client javascript file 
+Following files are the chat_server & chat_client javascript file
