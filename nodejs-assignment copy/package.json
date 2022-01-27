@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-assignment",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "1st.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yash Modi",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "download": "^8.0.0",
+    "handlebars": "^4.7.7",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "node-url-shortener": "^2.0.1",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  }
+}
